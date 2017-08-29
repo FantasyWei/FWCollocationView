@@ -73,9 +73,7 @@
             make.height.equalTo(kItemScrollViewHeight)
         }
         
+      }
+
     }
 
-   
-
-
-}
